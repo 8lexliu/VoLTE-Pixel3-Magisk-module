@@ -1,7 +1,7 @@
-id=template
-name=Template Module
-version=v1
-versionCode=1
-author=topjohnwu
-description=A short description
+id=CHN_VOLTE
+name=CHN_VOLTE_ENABLER
+version=0.01
+versionCode=0.01
+author=aeeeb
+description=This module adds VoLTE support for Pixel 3/3XL user in China
 minMagisk=17000
