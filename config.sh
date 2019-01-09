@@ -41,7 +41,7 @@ LATESTARTSERVICE=false
 
 print_modname() {
   ui_print "*******************************"
-  ui_print "     Magisk Module Template    "
+  ui_print "     PIXEL3_VOLTE(CHINA)    "
   ui_print "*******************************"
 }
 
@@ -54,10 +54,8 @@ print_modname() {
 
 # This is an example
 REPLACE="
-/system/app/Youtube
-/system/priv-app/SystemUI
-/system/priv-app/Settings
-/system/framework
+/system/vendor/rfs/msm/mpss/readonly/vendor/mbn/mcfg_sw
+
 "
 
 # Construct your own list here, it will override the example above
